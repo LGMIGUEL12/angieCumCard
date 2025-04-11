@@ -36,7 +36,7 @@ const card = document.querySelector(".front face back face");
 
 script = `
     .....
-Hola Señorita Anny!
+Hola Señorita Angie!
   Vengo a molestarle  
 Y decearle un feliz
 cumpleaños(PASADO) señorita
@@ -51,7 +51,7 @@ mas y que siga siempre
 tan hermosa y maravillosa
 como siempre
  ..........
-          Feliz Cumpleaños
+          Feliz Cumpleaños Preciosa
 `;
 
 
